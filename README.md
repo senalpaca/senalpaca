@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hi, this is Sena. I am an MSc. student of Media Informatics at the Technical University of Berlin and the Free University of Berlin. I am currently working as a working student assisting product managing and automation in a startup. 
+
+Besides my studies, I am also interested in generative art, XR and VR technologies. I participated in several projects in these areas during my academical studies. 
+
+Outside academia, I am an avid binge watcher, a cinephile, photographer and an experimental cook.
+
 <!--
 **senalpaca/senalpaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
